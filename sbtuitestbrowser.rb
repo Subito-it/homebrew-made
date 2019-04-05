@@ -1,9 +1,9 @@
 class Sbtuitestbrowser < Formula
   desc "A command line tool to parallelize Apple UI Tests"
   homepage "https://github.com/Subito-it/sbtuitestbrowser"
-  url "https://github.com/Subito-it/homebrew-made/raw/master/archive/sbtuitestbrowser/sbtuitestbrowser-1.0.3.tar.gz"
-  sha256 "9cd87f8c674e314122760b544331a773e94c45b551ff3bd1b030003dad19d2de"
-  version "1.0.3"
+  url "https://github.com/Subito-it/homebrew-made/raw/master/archive/sbtuitestbrowser/sbtuitestbrowser-1.0.4.tar.gz"
+  sha256 "5e01b0279853cd306bf910be81f35636410ee51ab45ab6dd3ebf78428f4c387f"
+  version "1.0.4"
 
   bottle :unneeded
 
