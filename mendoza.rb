@@ -1,9 +1,9 @@
 class Mendoza < Formula
   desc "A command line tool to parallelize Apple UI Tests"
   homepage "https://github.com/Subito-it/Mendoza"
-  url "https://github.com/Subito-it/homebrew-made/raw/master/archive/mendoza/mendoza-0.3.8.tar.gz"
-  sha256 "ea40ac43f112172ec00e6830ff794f3f9e1abfe76fad287dfa29eb8cfb27e000"
-  version "0.3.8"
+  url "https://github.com/Subito-it/homebrew-made/raw/master/archive/mendoza/mendoza-0.3.9.tar.gz"
+  sha256 "b6b8873cf08a66e47b034efaaaec03b558177cd87278b3be23deef728c123ceb"
+  version "0.3.9"
 
   depends_on "libssh2"
 
