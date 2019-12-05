@@ -6,6 +6,7 @@ class Mendoza < Formula
   version "1.1.5"
 
   depends_on "libssh2"
+  depends_on "https://raw.githubusercontent.com/kadwanev/bigboybrew/master/Library/Formula/sshpass.rb"
 
   bottle :unneeded
 
